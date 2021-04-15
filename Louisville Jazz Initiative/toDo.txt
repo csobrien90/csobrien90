@@ -1,0 +1,40 @@
+LJI Website To Do
+
+Content:
+
+- Home page
+    - News
+    - Pictures for slideshow
+- About page
+    - Vision statement
+    - Personnel (pictures, bios for some, links to personal pages for others)
+- Education page
+    - Post pictures and videos of teaching
+    - Write section on programs (philosophy, form, outline/sample plan?)
+    - Detail our reach with info about partnering schools, general exposure, assessment results, and other stats/data (more pictures)
+    - Info on how to work with us and link/form for contact
+- Music page
+    - Embed performance videos
+    - Write blurbs about current projects (interview with Joe Dunn with clips of rehearsal?)
+    - Insert links to faculty playing in other situations
+- Connect page
+    - Complete contact info with graphic and PO box
+    - Add buttons and links to social media
+    - Update upcoming events
+    - Add direct email or interest form?
+    - Move newsletter subscription prompt to footer? 
+
+
+Style:
+
+- Commission logos
+- Basic aesthetic (font, headings vs. paragraphs, box shadows, etc.)
+- Apply color scheme
+- Finalize template formatting
+- Animations and graphics for ultimate slickness
+
+
+Funtionality:
+
+- Backup code/file structure
+- Test on many browsers (PC and Mac) and a variety of mobile devices 
